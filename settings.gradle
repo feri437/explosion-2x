@@ -1,0 +1,3 @@
+// Minimal settings.gradle for AndroidIDE compatibility
+rootProject.name = "GB90Smart2x"
+include ':app'
